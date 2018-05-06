@@ -1,0 +1,10 @@
+.new {
+  float: left;
+}
+
+#block {
+  width: 500px;
+  height: 500px;
+  background: #000;
+  border-radius: 500px;
+}
