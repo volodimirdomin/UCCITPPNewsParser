@@ -48,7 +48,6 @@ require_once plugin_dir_path(__FILE__) . 'includes/class.uccitpp-news-parser.php
 
 function run_uccitpp_news_parser() {
 	$utnp = new UCCITPPNewsParser();
-	//$utnp->run();
 }
 
 run_uccitpp_news_parser();
